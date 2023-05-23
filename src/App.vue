@@ -2,7 +2,7 @@
     <div class="main">
         <h1 class="text-align-center">Top FootBall Players</h1>
         <playersList :players="players" />
-    </div>
+    </div>npm r
 </template>
 
 <script >

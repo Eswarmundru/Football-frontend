@@ -3,7 +3,7 @@
         <header>
             <h2 class="name">{{ player.name }}</h2>
         </header>    
-        <!-- <img :src="player.image" /> -->
+        <img :src="player.image" >
         <div class="content">
             <p>Country: {{ player.country }}</p>
             <p>Age: {{ player.age }}</p>
